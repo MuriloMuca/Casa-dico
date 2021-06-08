@@ -1,2 +1,0 @@
-# Casa-dico
-Exercício teste
